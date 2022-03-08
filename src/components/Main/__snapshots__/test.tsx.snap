@@ -1,8 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`#Main should render the heading 1`] = `
-<main>
-  <h1>
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="styles__Wrapper-gpRyM bQifFq"
+>
+  <h1
+    class="styles__Title-cLDGHr bZCzI"
+  >
     Boilerplate NextJS
   </h1>
 </main>
