@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 
-import Main from 'components/Main'
+import ExampleComponent from 'components/example-component'
 
-const Home: NextPage = () => <Main />
+const Home: NextPage = () => <ExampleComponent />
 
 export default Home
