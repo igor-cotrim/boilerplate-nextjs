@@ -14,6 +14,16 @@ This project uses lot of stuff as:
 - [Husky](https://github.com/typicode/husky)
 - [Plop](https://plopjs.com)
 
+## Use Boilerplate
+
+```bash
+yarn create next-app -e https://github.com/igor-cotrim/boilerplate-nextjs
+# or
+yarn create next-app -e https://github.com/igor-cotrim/boilerplate-nextjs
+```
+
+or use this github Template
+
 ## Getting Started
 
 First, run the development server:
